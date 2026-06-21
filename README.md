@@ -6,16 +6,14 @@
 
 | No. | Name                | Registration Number   |
 |-----|----------------------|-----------------------|
-| 1.  | Ruth Jelagat         | BSCCS/2025/68700      |
-| 2.  | Elizabeth Mwangi     | BSCCS/2025/67991      |
-| 3.  | Paul Gathura         | BSCCS/2025/30381      |
-| 4.  | Faraja Mukuba        | BSCCS/2025/67617      |
-| 5.  | Brian Mwema          | BSCCS/2025/68320      |
-| 6.  | Masinde Brian        | BSCCS/2025/33451      |
-| 7.  | Nihla Aboud          | BSCCS/2025/30363      |
-| 8.  | Abiar Kim            | BSCCS/2025/68647      |
-| 9.  | Wisdom Washe         | BSCCS/2025/68601      |
-| 10. | Dan Frankline        | BSCCS/2025/67612      |
+1.BSCCS/2025/62426 Ezekiel Deng
+2.BSCCS/2025/59799 Filsan Farah
+3.BSCCS/2025/59872  Jacinta Mwende
+4.BSCCS/2025/59368 Joan Mulei
+5.BSCCS/2025/59424 Yvonne Mureithi 
+6.BSCCS/2025/62462 Hunorason Butuli
+7.BSCCS/2025/50654 Isaa Bashar
+8.BSCCS/2023/72634 Sean Kirubi
 
 
 The **Internet of Things (IoT)** refers to a network of physical objects embedded with electronics, software, and connectivity features enabling them to collect data from their environment and exchange information over the internet.  
